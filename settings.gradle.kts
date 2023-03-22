@@ -1,3 +1,3 @@
 
-rootProject.name = "MPK_01Fundamental"
+rootProject.name = "DC1_01Fundamental"
 
