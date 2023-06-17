@@ -8,5 +8,4 @@ fun main() {
 
     val readableNumber = 1_000_000
     println(readableNumber)
-
 }

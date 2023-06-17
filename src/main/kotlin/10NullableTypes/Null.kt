@@ -6,5 +6,7 @@ fun main() {
     if (text != null) {
         val textLength = text.length
         println(textLength)
+    } else {
+        println("input is null")
     }
 }

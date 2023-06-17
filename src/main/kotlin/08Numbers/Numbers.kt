@@ -6,6 +6,7 @@ fun main() {
 
     println(maxInt)
     println(minInt)
+    println()
 
     val numberOne = 1
     val numberTwo = 2
